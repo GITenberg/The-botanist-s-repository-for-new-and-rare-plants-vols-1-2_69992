@@ -1,0 +1,30 @@
+_repo: The-botanist-s-repository-for-new-and-rare-plants-vols-1-2_69992
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andrews, Henry Cranke, active 1799-1828
+    aliases:
+    - Andrews, Henry Charles
+    - Andrews, H. C. (Henry Charles)
+    - Andrews, Henry C.
+    gutenberg_agent_id: '53717'
+    url: http://www.gutenberg.org/2009/agents/53717
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Cranke_Andrews
+description: ''
+gutenberg_issued: '2023-02-08'
+identifiers:
+  gutenberg: '69992'
+language: en
+pgterms:marc905: 20210915144735andrews
+pgterms:marc906: '1797'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Biodiversity Heritage Library)
+publication_note: '  $aUnited Kingdom :$bThe author, $c1797.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The botanist's repository for new and rare plants; vols 1 & 2
+url: http://www.gutenberg.org/ebooks/69992
